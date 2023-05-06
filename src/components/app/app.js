@@ -28,11 +28,17 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 //     )
 // }
 class App extends React.Component {
-    static defaultProps = {
-      name: []
+    // static defaultProps = {
+    //   name: []
+    // }
+
+    render() {
+        return (
+            <h1>hello</h1>
+        )
     }
   
   }
   
-  export default App;
+export default App;
   
