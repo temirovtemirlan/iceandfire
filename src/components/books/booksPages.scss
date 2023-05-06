@@ -1,0 +1,17 @@
+.books__container {
+    width: 100%;
+    color: #292929;
+    padding: 20px 0px ;
+    backdrop-filter: blur(12px);
+    border-radius: 24px;
+    // background: radial-gradient(circle at 100% 100%, #ffffff 0, #ffffff 21px, transparent 21px) 0% 0%/24px 24px no-repeat,
+    //         radial-gradient(circle at 0 100%, #ffffff 0, #ffffff 21px, transparent 21px) 100% 0%/24px 24px no-repeat,
+    //         radial-gradient(circle at 100% 0, #ffffff 0, #ffffff 21px, transparent 21px) 0% 100%/24px 24px no-repeat,
+    //         radial-gradient(circle at 0 0, #ffffff 0, #ffffff 21px, transparent 21px) 100% 100%/24px 24px no-repeat,
+    //         linear-gradient(#ffffff, #ffffff) 50% 50%/calc(100% - 6px) calc(100% - 48px) no-repeat,
+    //         linear-gradient(#ffffff, #ffffff) 50% 50%/calc(100% - 48px) calc(100% - 6px) no-repeat,
+    //         linear-gradient(2deg, #e8e8e8 0%, #e8e8e8 1%, #d0d0d0 10%);
+    border: 2px solid #eee;
+
+    padding: 20px 20px;
+}

@@ -1,0 +1,15 @@
+body {
+    color: #fff;
+}
+.header__logo {
+    color: #fff;
+}
+.header__nav {
+    padding: 40px 0px ;
+}
+.header__nav a:not(:last-child) {
+    margin-right: 100px ;
+    
+    
+}
+.header__nav a { color: #fff ; text-decoration: none; }
